@@ -1,0 +1,40 @@
+/* Popup */
+
+@media screen and (max-width: 700px){
+    .box{
+      width: 70%;
+    }
+    .popup{
+      width: 70%;
+    }
+    .button{
+        margin-left: 8rem;
+        margin-top: -17rem;
+    }
+    h1 {
+        margin-left: 1rem;
+        margin-right: 1rem;
+    }
+    .line {
+        padding: 1.25px 131px;
+    }
+  }
+
+  @media (max-width: 700px) {
+    .followme h3 {
+        font-size: 1rem;
+      }
+    
+      .followme .footer-line {
+        margin: 0 0.8rem;
+      }
+    
+      .social-media a {
+        font-size: 1rem;
+      }
+      .followme-wrap2 {
+        visibility: hidden;
+        position: absolute;
+        margin-top: -500rem;
+      }
+  }
